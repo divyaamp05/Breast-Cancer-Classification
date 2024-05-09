@@ -1,4 +1,4 @@
-# Breast Cancer Classification Project
+# Breast Cancer Classification 
 
 This repository contains code for classifying breast cancer tumors as malignant or benign using machine learning techniques.
 
@@ -13,10 +13,9 @@ This Jupyter Notebook contains the following sections:
 
 1. Data Loading and Preprocessing: Loading the dataset and preprocessing the data.
 2. Exploratory Data Analysis (EDA): Exploring the dataset and analyzing it.
-3. Feature Engineering: Selecting relevant features and transforming data for model training.
-4. Model Training: Training machine learning model with Logistic Regression
-5. Model Evaluation: Evaluating model performance using various metrics such as accuracy_score.
-6. Building Predictive System: Focuses on building a predictive system using machine learning techniques to classify breast cancer tumors as malignant or benign.
+3. Model Training: Training machine learning model with Logistic Regression
+4. Model Evaluation: Evaluating model performance using various metrics such as accuracy_score.
+5. Building Predictive System: Focuses on building a predictive system using machine learning techniques to classify breast cancer tumors as malignant or benign.
 
 ## Dependencies
 
